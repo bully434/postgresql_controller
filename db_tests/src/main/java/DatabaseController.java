@@ -2,9 +2,9 @@ import java.sql.*;
 import java.util.ArrayList;
 
 public class DatabaseController implements IDatabaseController {
-    private static String url = "jdbc:postgresql://ec2-54-225-115-234.compute-1.amazonaws.com:5432/d3oj1hcq2iv7r9?sslmode=require";
-    private static String user = "fqgnjikpzainjg";
-    private static String pass = "82ddf7e508862e026fdca08ef482484727ec7e5477ab55571228598577f19340";
+    private static String url = "_____";
+    private static String user = "______";
+    private static String pass = "_______";
     private static Connection connection;
 
     public DatabaseController() {
